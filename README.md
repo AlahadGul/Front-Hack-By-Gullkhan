@@ -1,8 +1,8 @@
-# Front Hack By Gullkhan 
+# CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![Gullkhan](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
+![CamPhish](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
 
-# What is Front Hack?
+# What is CamPhish?
 <p>CamPhish is techniques to take cam shots of target's phone front camera or PC webcam. CamPhish Hosts a fake website on in built PHP server and uses ngrok & CloudFlare Tunnel to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device
 
 A GPS location capture feature has been added.</p>
@@ -21,8 +21,10 @@ A GPS location capture feature has been added.</p>
 <ul>
   <li>Kali Linux</li>
   <li>Termux</li>
+  <li>MacOS</li>
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
+  <li>Windows (WSL)</li>
 </ul>
 
 # Installing and requirements
@@ -87,7 +89,6 @@ bash cleanup.sh
 ### Important Notice
 Unauthorized reuploading of this project is prohibited.
 
-#### Follow Facebook
-<https://www.facebook.com/share/17g6FhXLW2/">
+#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
