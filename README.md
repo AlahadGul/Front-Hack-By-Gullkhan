@@ -1,4 +1,4 @@
-# Tool Created By Gullkhan 😎
+# Modified By Gullkhan 😎
 Grab camera front shots from target's phone front camera or PC webcam just sending a link.
 ![Front Hack](https://www.facebook.com/share/17g6FhXLW2/)
 
@@ -95,5 +95,5 @@ bash cleanup.sh
 ### Important Notice
 Unauthorized reuploading of this project is prohibited.
 
-#### Follow Me On Facebook <https://www.facebook.com/share/17g6FhXLW2/">Gullkhan006 YouTube Channel</a>
+#### Follow Me On Facebook <https://www.facebook.com/share/17g6FhXLW2/">
 <p>Gullkhan is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
