@@ -37,7 +37,7 @@ apt-get -y install php wget unzip
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/AlahadGul/Front-Hack-By-Gullkhan
+git clone https://github.com/AlahadGul/GullkhanTA.git
 ```
 🧩 Step >3
 ```
@@ -79,5 +79,7 @@ bash cleanup.sh
 ### Important Notice
 Unauthorized reuploading of this project is prohibited.
 
-#### Follow Me On Facebook <https://www.facebook.com/share/1Ka7DgPnxg/"
 <p>Gullkhan is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
+
+
+#### Follow Me On Facebook <https://www.facebook.com/share/1Ka7DgPnxg/"
