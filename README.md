@@ -38,7 +38,6 @@ A GPS location capture feature has been added.</p>
 ```
 apt-get -y install php wget unzip
 ```
-🧩 Step 2
 ## Installing Kali Linux
 
 ```
@@ -53,7 +52,7 @@ chmod +x *
 ```
 bash khan.sh
 ```
-🧩 Step 3
+🧩 Step 2
 ## Clean logs & unnecessary files :
 
 ```
