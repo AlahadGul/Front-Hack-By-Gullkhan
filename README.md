@@ -52,7 +52,6 @@ chmod +x *
 ```
 bash khan.sh
 ```
-🧩 Step 2
 ## Clean logs & unnecessary files :
 
 ```
