@@ -34,7 +34,7 @@ A GPS location capture feature has been added.</p>
 # Installing and requirements
 <p>This tool require PHP for webserver, and wget for downloading dependencies. First run following command on your terminal</p>
 
-🧩 command follow 
+🧩 Command Follow 
 ```
 apt-get -y install php wget unzip
 ```
