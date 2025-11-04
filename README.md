@@ -44,7 +44,6 @@ apt-get -y install php wget unzip
 ```
 git clone https://github.com/AlahadGul/GullkhanTA.git
 ```
-🧩 Step 3
 ```
 cd GullkhanTA
 ```
@@ -54,7 +53,7 @@ chmod +x *
 ```
 bash khan.sh
 ```
-🧩 Step 4
+🧩 Step 3
 ## Clean logs & unnecessary files :
 
 ```
