@@ -69,17 +69,8 @@ bash cleanup.sh
   <li>Added: Improved loading screen with location request</li>
 </ul>
 
-<p><b>Version: 1.7:</b> Fix and add support</p>
-<ul>
-  <li>fixed: termux failed to get home directory</li>
-  <li>Add support for Apple sillicon (M1/M2/M3 ARM64)</li>
-  <li>Add support for arm64 like Raspberry Pi</li>
-</ul>
-<p><b>Version: 1.6:</b> Fix ngrok direct link generate</p>
-<p><b>Version: 1.5:</b> Add new online meeting template</p>
-<p><b>Version: 1.4:</b> Ngrok authtoken update</p>
-<p><b>Version: 1.3:</b> Fix ngrok direct link</p>
-
+  <li>Termux: failed to get home directory termux work in kali netHunter</li>
+  
 ### Important Notice
 Unauthorized reuploading of this project is prohibited.
 
